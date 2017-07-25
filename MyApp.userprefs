@@ -1,11 +1,12 @@
-﻿<Properties StartupConfiguration="{FBBF3A8D-A1C8-43F3-A5EE-1B1387CDED5D}|Default">
+﻿<Properties StartupConfiguration="{373E62BB-5917-44D9-A638-0D94C5B768A0}|Default">
   <MonoDevelop.Ide.ItemProperties.MyApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F5F5DD91-0CD1-44E9-BB5E-B35DD1E768DC" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyApp/MyAppPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyApp/MyAppPage.xaml">
     <Files>
-      <File FileName="MyApp/MyAppPage.xaml" Line="3" Column="33" />
-      <File FileName="MyApp/MyAppPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="MyApp/MyAppPage.xaml" Line="8" Column="1" />
+      <File FileName="MyApp/MyAppPage.xaml.cs" Line="19" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyApp.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
