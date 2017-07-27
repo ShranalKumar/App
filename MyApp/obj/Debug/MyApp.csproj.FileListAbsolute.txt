@@ -22,3 +22,4 @@
 /Users/user/Desktop/App/App/MyApp/obj/Debug/MyApp.MyAppPage.xaml.g.cs
 /Users/user/Desktop/App/App/MyApp/obj/Debug/MyApp.dll
 /Users/user/Desktop/App/App/MyApp/obj/Debug/MyApp.pdb
+/Users/user/Desktop/App/App/MyApp/obj/Debug/MyApp.csprojResolveAssemblyReference.cache

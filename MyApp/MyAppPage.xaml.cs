@@ -14,14 +14,21 @@ namespace MyApp
 
         async void Handle_ClickedAsync(object sender, System.EventArgs e)
         {
+            await CrossMedia.Current.Initialize();
+
             MediaFile carPic = await CrossMedia.Current.TakePhotoAsync(new StoreCameraMediaOptions
             {
-                PhotoSize = PhotoSize.Medium,
+                PhotoSize = PhotoSize.Small,
                 Directory = "sample",
                 Name = $"{DateTime.UtcNow}.jpg"
             });
 
-            car.Source = ImageSource.FromStream(() => { return carPic.GetStream(); });
+            if (carPic != null)
+            {
+                car.Source = ImageSource.FromStream(() => { return carPic.GetStream(); });
+            }
+
+            carTag.Text = "worked";
         }
     }
 }

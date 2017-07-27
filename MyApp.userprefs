@@ -1,11 +1,9 @@
 ﻿<Properties StartupConfiguration="{FBBF3A8D-A1C8-43F3-A5EE-1B1387CDED5D}|Default">
   <MonoDevelop.Ide.ItemProperties.MyApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F5F5DD91-0CD1-44E9-BB5E-B35DD1E768DC" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="App Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyApp/MyAppPage.xaml.cs">
     <Files>
-      <File FileName="MyApp/MyAppPage.xaml" Line="5" Column="31" />
+      <File FileName="MyApp/MyAppPage.xaml" Line="8" Column="1" />
       <File FileName="MyApp/MyAppPage.xaml.cs" Line="24" Column="87" />
-      <File FileName="Droid/Properties/AssemblyInfo.cs" Line="29" Column="79" />
-      <File FileName="App Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.MyApp.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
